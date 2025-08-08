@@ -1,1 +1,1 @@
-https://github.com/muhammed-shafnas/mastering_git.git
+The purpose of this is to master git and github from watching youtube video.
