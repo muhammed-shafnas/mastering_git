@@ -1,1 +1,1 @@
-The purpose of this is to master git and github from watching youtube video.
+The purpose of this is to master git and github from watching youtube video.i am watching a 1 hour video
