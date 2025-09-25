@@ -1,3 +1,3 @@
-i am adding this from feature branch
-this will make conflicts in git
-i am writing this from dev-muh
+The purpose of this is to master git and github from watching youtube video.i am watching a 1 hour video.i have passed 30 minutes..i have passed 40 minutes.
+this makes conflicts in git 
+this is from branch-name
